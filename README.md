@@ -5,3 +5,8 @@
 - ✅ Basic calculations 
 - ✅ type() function
 - ✅ String concatenation with str()
+
+Day 3 ✅ Operators
+- Comparison: == != > < >= <= 
+- Logical: and or not
+- Combined conditions for real scenarios
