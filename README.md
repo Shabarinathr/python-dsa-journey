@@ -10,3 +10,10 @@ Day 3 ✅ Operators
 - Comparison: == != > < >= <= 
 - Logical: and or not
 - Combined conditions for real scenarios
+
+
+Day 4 ✅ Conditionals
+- if/else/elif syntax
+- Indentation rules  
+- TCS eligibility checker
+- Real internship scenarios
